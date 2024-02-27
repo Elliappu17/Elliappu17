@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elliappu17
+- 👋 Hi, I’m @IT-BY_RAVE
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on ...
